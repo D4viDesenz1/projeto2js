@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(to right, white, grey, black);
+
+}
+p{
+    text-align: center;
+    color: rgb(17, 14, 14);
+    font-size: 20px;
+}
+#image{
+    width: 400px;
+    height: 400px;
+    margin-left: 35%;
+}
